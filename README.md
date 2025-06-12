@@ -20,10 +20,13 @@ npm install
 npm run dev
 
 <h1>Structure du projet</h1>
-"/src" : fichiers sources (pages, composants, styles)
-"/public" : ressources statiques (images, favicon, etc.)
-"astro.config.mjs" : configuration du projet Astro
-"tailwind.config.js" : configuration de Tailwind CSS
+"/src" : fichiers sources (pages, composants, styles) </br>
+
+"/public" : ressources statiques (images, favicon, etc.) </br>
+
+"astro.config.mjs" : configuration du projet Astro </br>
+
+"tailwind.config.js" : configuration de Tailwind CSS </br>
 
 Ce projet est basé sur un template Astro de la bibliothèque officielle, mais a été entièrement modifié par moi-même pour répondre à mes besoins 
 
