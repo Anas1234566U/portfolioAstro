@@ -2,6 +2,8 @@ Bienvenue sur le dépôt de mon portfolio personnel, développé avec le framewo
 
 Ce portfolio présente mon parcours, mes compétences et mes projets. Il a été conçu pour être moderne, responsive et agréable à parcourir.
 
+Il est en ligne via vercel sur ce lien : https://portfolio-astro-gamma-three.vercel.app/
+
 <h1>Fonctionnalités principales</h1>
 
 <ul>
